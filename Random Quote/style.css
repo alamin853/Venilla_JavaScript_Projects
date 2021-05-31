@@ -1,0 +1,21 @@
+body{
+    background: lightblue;
+    text-align: center;
+}
+.heading{
+    font-size: 50px;
+}
+button{
+    background: red;
+    color: white;
+    border-radius: 10px;
+    font-size: 16px;
+    padding: 7px;
+    border: none;
+}
+button:hover{
+    cursor: pointer;
+}
+#quote{
+    display: flex;
+}
